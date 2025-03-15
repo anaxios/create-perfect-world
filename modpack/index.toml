@@ -181,6 +181,11 @@ hash = "e8e70aea617237c1ad95883dba901d8e9b7570cb52f885d38b33a3e7db47da81"
 metafile = true
 
 [[files]]
+file = "mods/geophilic.pw.toml"
+hash = "643b6f675134f2b2dcf7601cf895a83dbb9ad56b1433e603ba36c8c1fc6c94bf"
+metafile = true
+
+[[files]]
 file = "mods/gjeb.pw.toml"
 hash = "cb73822a3602781cc5a5508b5d96f0bd4025cff0609edbb85a1ec1f190ec8e75"
 metafile = true
@@ -413,4 +418,19 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "30e1fceff4fd5d769c044f2f8775656a641bf71993f3246d7965712bf2706afa"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "cfb57ffe639b04b5aee53ca280aad97e5c94395059a049a47b24af0660776904"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "b90b25b61edd0dfe3bb3074e2343351c7a427d24bb1fa42c642a157b0fd887e4"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "44a21e5965999f71a91d38cadd3cffa0a6501f452455e7dedc1c8d4807197acb"
 metafile = true
