@@ -131,6 +131,11 @@ hash = "ca604e92190d200cc4f744f480fd11c7cc451a47fab0ea8a606b6222b4a56562"
 metafile = true
 
 [[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "5af0c4f1ee0e83ff5a6356ccea4224ce19aeded4ccb6f183fa75f2efab306240"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "467d7d44e4da1ac78b4c80b71ddf8b91cbca4bca068318f6ee548299eef28e82"
 metafile = true
