@@ -291,11 +291,6 @@ hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
 metafile = true
 
 [[files]]
-file = "mods/neoculus.pw.toml"
-hash = "9fe362045b680827b38b38722812ab9fb84634d7048fd6421a04edc4f3cd6da1"
-metafile = true
-
-[[files]]
 file = "mods/neruina.pw.toml"
 hash = "6092d22901ad01c854380e2946a27e193fcdd4340889d5fe8f790b8a36d24a26"
 metafile = true
