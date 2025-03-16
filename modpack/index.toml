@@ -196,6 +196,11 @@ hash = "8da78a0ede953607199bdb40864ac978a9d28be418a5b60037d6b3f91ba59d13"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "c3c06a4839ecfd4717686f7394396a4fc66b7a2e8eabbdd51f23ab2a1099cc1e"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "3272f1c8e94191a33400bf0b790bf50a3cac71b6029db3344ddcf9cc5a85631b"
 metafile = true
@@ -348,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
 hash = "3f1a262e3878bd1f5105de507b46d40819d3b5adcac5b7c58437c4d408852c80"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "347cac2ed12c9bc0561b6a59eeb4c121b10e5f3f71d54e9bf8d1343af57ef5b8"
 metafile = true
 
 [[files]]
