@@ -6,6 +6,11 @@ hash = "8a9a92db01486e4f8d3a7370a6cbf6e59a12d1ef15c24b375ebce75500e78afc"
 metafile = true
 
 [[files]]
+file = "mods/air-hop.pw.toml"
+hash = "af86231a539b7c7a2e6deaf457b8ee4f239f6fa7467f1e064d562ec7f773a5bc"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "6b1de417a7fa934847bf002b75acd00d48637bb3484ea468799354b612658775"
 metafile = true
