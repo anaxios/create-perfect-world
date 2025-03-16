@@ -6,6 +6,11 @@ hash = "8a9a92db01486e4f8d3a7370a6cbf6e59a12d1ef15c24b375ebce75500e78afc"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "d68190d63a0cef38d5d95aac2fe0ee5d31a7b43f195da073589c5291583171ff"
+metafile = true
+
+[[files]]
 file = "mods/air-hop.pw.toml"
 hash = "af86231a539b7c7a2e6deaf457b8ee4f239f6fa7467f1e064d562ec7f773a5bc"
 metafile = true
@@ -193,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/gjeb.pw.toml"
 hash = "cb73822a3602781cc5a5508b5d96f0bd4025cff0609edbb85a1ec1f190ec8e75"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "c90305a7c56ad90fcea4423d149a0d87ababe53bffadac269dd5724ff17d8605"
 metafile = true
 
 [[files]]
