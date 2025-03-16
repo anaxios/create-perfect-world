@@ -91,6 +91,11 @@ hash = "9a31384e891fd38ae4cdc606612eb6017cdc436cef194c22e58c36d8c942db90"
 metafile = true
 
 [[files]]
+file = "mods/complete-turtle-armor.pw.toml"
+hash = "1f9a68de1c19bb7c4449125e2f07af46d0a75dea221b2b6546924103d67bd129"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "e7ab61139edaca7ebf16131d8292a257e45b3dc1b027234ce2b4f0f27f850004"
 metafile = true
