@@ -101,6 +101,16 @@ hash = "1f9a68de1c19bb7c4449125e2f07af46d0a75dea221b2b6546924103d67bd129"
 metafile = true
 
 [[files]]
+file = "mods/connector.pw.toml"
+hash = "0a4d0034c5a1379d5aa57c0a104aaa2adbb98f1e2b89d4ec0b7ef68df2e16a1a"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "e7ab61139edaca7ebf16131d8292a257e45b3dc1b027234ce2b4f0f27f850004"
 metafile = true
@@ -178,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/food-effect-tooltips-forge.pw.toml"
 hash = "a71713076503c473ca3216c71285b2641ca250f80933d713a9f42edd03f5da17"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "d6f2fdcf0f4bc67dccd8e036f7c8117ffd76a008bd50e2a060cd23671ef9abb9"
 metafile = true
 
 [[files]]
