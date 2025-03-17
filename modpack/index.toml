@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/skeleton-horse-spawn.pw.toml"
-hash = "3791375f80c99cc7ed18b1e50e07b08f48548583bf63713e10424a98c66ed5e3"
+hash = "11a400b0a7a71773fa573f52266780bc815a16272497e90da9794a986890ad2e"
 metafile = true
 
 [[files]]
@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/zombie-horse-spawn.pw.toml"
-hash = "00d526cce73b07b36e149053d91da1bcd729b1929f6cc8d2b9d5db53dd3d5fba"
+hash = "3d551e43e74be879f460419854fb3756e934560ff41c81b62380192c9f959a07"
 metafile = true
 
 [[files]]
