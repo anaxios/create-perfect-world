@@ -211,6 +211,21 @@ hash = "f684e2251ae867923da13bf75df42e1086a0f50018ab4c70eaf4b888d52b7251"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes-beekeeper-hut-forge.pw.toml"
+hash = "d34a76aad21b78c728e11faf474aff2a59b8fa7c603756efb7bbd40677551536"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes-flowery-mooblooms-forge.pw.toml"
+hash = "16bf92e9cddbe3481a0df40237a4439a5781ee30e77b27659b03457593d6f666"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes-forge.pw.toml"
+hash = "c5d51f397348dc028c1aa009d93175bf760e1df20331d27cd84cee1f76e4928a"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "e8e70aea617237c1ad95883dba901d8e9b7570cb52f885d38b33a3e7db47da81"
 metafile = true
