@@ -496,6 +496,11 @@ hash = "30e1fceff4fd5d769c044f2f8775656a641bf71993f3246d7965712bf2706afa"
 metafile = true
 
 [[files]]
+file = "mods/zombie-horse-spawn.pw.toml"
+hash = "00d526cce73b07b36e149053d91da1bcd729b1929f6cc8d2b9d5db53dd3d5fba"
+metafile = true
+
+[[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "cfb57ffe639b04b5aee53ca280aad97e5c94395059a049a47b24af0660776904"
 metafile = true
