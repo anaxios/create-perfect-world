@@ -11,11 +11,6 @@ hash = "d68190d63a0cef38d5d95aac2fe0ee5d31a7b43f195da073589c5291583171ff"
 metafile = true
 
 [[files]]
-file = "mods/aether.pw.toml"
-hash = "37a6ac409f7074355d52d7042bcea937250d2ebeccf31614345b0d4119decac2"
-metafile = true
-
-[[files]]
 file = "mods/air-hop.pw.toml"
 hash = "af86231a539b7c7a2e6deaf457b8ee4f239f6fa7467f1e064d562ec7f773a5bc"
 metafile = true
@@ -403,11 +398,6 @@ metafile = true
 [[files]]
 file = "mods/ore-harvester.pw.toml"
 hash = "d24b63a488c7807499b18fe76eda1ecd3ad8b787ded557f9a6412dadc66ba4d4"
-metafile = true
-
-[[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "0311ca22213f4a9c8fb943619271944d3ffedf7a17f098e8c0f8fad8f897d700"
 metafile = true
 
 [[files]]
