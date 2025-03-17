@@ -156,6 +156,11 @@ hash = "ca604e92190d200cc4f744f480fd11c7cc451a47fab0ea8a606b6222b4a56562"
 metafile = true
 
 [[files]]
+file = "mods/despawning-eggs-hatch.pw.toml"
+hash = "04860a1c802a73fb52dd79c57ce72943e70c8caa1a99665d872bcb324d6a77a0"
+metafile = true
+
+[[files]]
 file = "mods/easy-villagers.pw.toml"
 hash = "5af0c4f1ee0e83ff5a6356ccea4224ce19aeded4ccb6f183fa75f2efab306240"
 metafile = true
@@ -371,6 +376,16 @@ hash = "6092d22901ad01c854380e2946a27e193fcdd4340889d5fe8f790b8a36d24a26"
 metafile = true
 
 [[files]]
+file = "mods/no-feather-trample.pw.toml"
+hash = "3822a5fb5fb1ba176870011765ce5cc2da90d3faccd2b938d1e5369a1acc5cdd"
+metafile = true
+
+[[files]]
+file = "mods/no-hostiles-around-campfire.pw.toml"
+hash = "d8fef6507b7903b4373514e21dae1c2ffeea09ec928ca7481397a67b840d39ec"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "758a6e0ca20802b83c96762c6399f7cd107c65260b2330373d46d7fddb69056e"
 metafile = true
@@ -383,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "5c576ee00b07cafe6a2eb04b84d89a5cc61ee21a6e66cb81522ab5970f8a7229"
+metafile = true
+
+[[files]]
+file = "mods/ore-harvester.pw.toml"
+hash = "d24b63a488c7807499b18fe76eda1ecd3ad8b787ded557f9a6412dadc66ba4d4"
 metafile = true
 
 [[files]]
@@ -488,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/villager-names-serilum.pw.toml"
 hash = "a235940faf1631e6baaf5647865126fa28229a85853027d7769406456a6c6ed1"
+metafile = true
+
+[[files]]
+file = "mods/what-durability.pw.toml"
+hash = "72dc53e98c3902a682f43013656fde9323c98e5231e8b94413a5e7e56363d207"
 metafile = true
 
 [[files]]
