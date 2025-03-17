@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/despawning-eggs-hatch.pw.toml"
-hash = "04860a1c802a73fb52dd79c57ce72943e70c8caa1a99665d872bcb324d6a77a0"
+hash = "58216e34b640bd4fcb425ba4a5fcdf8db313420263525746816889210eeb8133"
 metafile = true
 
 [[files]]
@@ -377,12 +377,12 @@ metafile = true
 
 [[files]]
 file = "mods/no-feather-trample.pw.toml"
-hash = "3822a5fb5fb1ba176870011765ce5cc2da90d3faccd2b938d1e5369a1acc5cdd"
+hash = "dce3f12b9534b04e84040c49030e7d775dd4a6091c4504dbb72468372e5787ef"
 metafile = true
 
 [[files]]
 file = "mods/no-hostiles-around-campfire.pw.toml"
-hash = "d8fef6507b7903b4373514e21dae1c2ffeea09ec928ca7481397a67b840d39ec"
+hash = "5e6b1524c18561c25a71d0842116ef3e047684c1b57bc5a9fb12fcc5d30c7ade"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/what-durability.pw.toml"
-hash = "72dc53e98c3902a682f43013656fde9323c98e5231e8b94413a5e7e56363d207"
+hash = "f51b0e315759aa87733d0ce08ec2fb6a7d66afcd25e9485080617ff587244e2d"
 metafile = true
 
 [[files]]
