@@ -296,11 +296,6 @@ hash = "54027603401c42860c29864e4e5e8639516743d2f3d17e51153fd841ffd58f5c"
 metafile = true
 
 [[files]]
-file = "mods/luckperms.pw.toml"
-hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
-metafile = true
-
-[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "7dd892fb09af08927855d3608c69c78e8d98ce2f0a484970e8379b81a4a2f608"
 metafile = true
