@@ -431,6 +431,11 @@ hash = "3f1a262e3878bd1f5105de507b46d40819d3b5adcac5b7c58437c4d408852c80"
 metafile = true
 
 [[files]]
+file = "mods/skeleton-horse-spawn.pw.toml"
+hash = "3791375f80c99cc7ed18b1e50e07b08f48548583bf63713e10424a98c66ed5e3"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "347cac2ed12c9bc0561b6a59eeb4c121b10e5f3f71d54e9bf8d1343af57ef5b8"
 metafile = true
